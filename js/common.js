@@ -12,5 +12,4 @@ function initMap() {
 
 //AIzaSyCKJTk_adUHrZF7KN56enZE0ziN5PdJzzw
 //48.445747n, 35.056169e
-//48°27'53.5"N 35°03'01.1"E
 //48.464850, 35.050297
